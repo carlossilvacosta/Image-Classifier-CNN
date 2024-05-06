@@ -7,5 +7,7 @@
 - **A pasta models com os arquivos salvos após o build de cada modelo. (.h5);**
 
 Links importantes:
-- https://drive.google.com/file/d/1EfYiRv3ZmrW6pFTFSHLHwYLOlMTpJTsT/view?usp=drive_link
-- https://drive.google.com/drive/folders/1CUDXg9NQPEteL3WvTIcIMlcMnrmlwV5y?usp=drive_link
+- Drive dataset.zip: 
+https://drive.google.com/file/d/1EfYiRv3ZmrW6pFTFSHLHwYLOlMTpJTsT/view?usp=drive_link
+- Drive pasta models:
+https://drive.google.com/drive/folders/1CUDXg9NQPEteL3WvTIcIMlcMnrmlwV5y?usp=drive_link
