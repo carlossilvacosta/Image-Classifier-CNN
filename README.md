@@ -1,4 +1,5 @@
-# Image Classifier using Convolutional Neural Networks
+# :computer: Inteligência Artificial Aplicada
+## Image Classifier using Convolutional Neural Networks
 
 - **Os 4 arquivos de código dos modelos (.ipynb):**
     - 2 arquivos com arquitetura CNN própria;
